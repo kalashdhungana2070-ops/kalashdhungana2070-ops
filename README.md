@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=KALASH%20DHUNGANA&fontSize=42&fontColor=0891A8&animation=fadeIn&fontAlignY=38&desc=Learning%20Python%20%26%20Web%20Development&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=KALASH%20DHUNGANA&fontSize=42&fontColor=0891A8&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=ad-63&label=PROFILE+VIEWS&color=08D9D6&style=for-the-badge&labelColor=1a1a1a" />
 <img src="https://img.shields.io/github/followers/ad-63?label=FOLLOWERS&style=for-the-badge&color=0891A8&labelColor=1a1a1a" />
